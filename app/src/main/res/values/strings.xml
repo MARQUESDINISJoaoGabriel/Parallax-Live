@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parallax Live</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Welcome to Parallax Live</string>
+    <string name="welcome_subtitle">Stream with style</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="sign_in_email">Sign in with Email</string>
+    <string name="create_account">Create an account</string>
+
+    <!-- Auth Screens -->
+    <string name="login_title">Sign In</string>
+    <string name="register_title">Create Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="already_have_account">Already have an account? Sign in</string>
+    <string name="dont_have_account">Don\'t have an account? Sign up</string>
+
+    <!-- Password Recovery -->
+    <string name="password_recovery_title">Reset Password</string>
+    <string name="password_recovery_subtitle">Enter your email address and we\'ll send you a link to reset your password</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="password_reset_sent">Password reset link sent! Check your email.</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Home</string>
+    <string name="create_stream">Create Stream</string>
+    <string name="recent_streams">Recent Streams</string>
+    <string name="popular_streams">Popular Streams</string>
+    <string name="empty_streams">No streams yet</string>
+    <string name="empty_streams_message">Your streams will appear here</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="notifications">Notifications</string>
+    <string name="app_settings">App Settings</string>
+    <string name="theme">Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+
+    <!-- Stream Configuration Screen -->
+    <string name="config_title">Configure your Stream</string>
+    <string name="stream_title">Stream Title</string>
+    <string name="stream_title_hint">My Awesome Stream</string>
+    <string name="viewer_count">Target Viewer Count</string>
+    <string name="message_type">Message Type</string>
+    <string name="private_stream">Private Stream</string>
+    <string name="start_stream">Start Stream</string>
+
+    <!-- Message Types -->
+    <string name="message_type_positive">Positive Messages</string>
+    <string name="message_type_question">Questions</string>
+    <string name="message_type_mixed">Mixed Messages</string>
+
+    <!-- Live Stream Screen -->
+    <string name="live_indicator">LIVE</string>
+    <string name="viewers">%d viewers</string>
+    <string name="end_stream">End Stream</string>
+    <string name="camera_permission_required">Camera permission is required to stream</string>
+    <string name="comment_hint">Add a comment…</string>
+    <string name="send">Send</string>
+    <string name="stream_ended">Stream ended</string>
+
+    <!-- Stream History Screen -->
+    <string name="history_title">Stream History</string>
+    <string name="empty_history">No stream history</string>
+    <string name="empty_history_message">Your past streams will appear here</string>
+    <string name="stream_duration">%d minutes</string>
+    <string name="stream_date">%s</string>
+
+    <!-- Error Messages -->
+    <string name="error_auth">Authentication failed. Please try again.</string>
+    <string name="error_registration">Registration failed. Please try again.</string>
+    <string name="error_password_match">Passwords do not match</string>
+    <string name="error_password_too_short">Password must be at least 6 characters</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_empty_name">Name cannot be empty</string>
+    <string name="error_stream">Failed to start stream. Please try again.</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_unknown">Unknown error occurred. Please try again.</string>
+
+    <!-- General -->
+    <string name="loading">Loading…</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="confirm">Confirm</string>
+    <string name="ok">OK</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="back">Back</string>
+</resources>

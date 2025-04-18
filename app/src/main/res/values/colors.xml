@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App specific colors -->
+    <color name="parallax_primary">#FF4285F4</color> <!-- Google Blue -->
+    <color name="parallax_secondary">#FFEA4335</color> <!-- Google Red -->
+    <color name="parallax_accent">#FF34A853</color> <!-- Google Green -->
+    <color name="parallax_background">#FFFAFAFA</color>
+    <color name="parallax_surface">#FFFFFFFF</color>
+    <color name="parallax_error">#FFEA4335</color>
+    <color name="parallax_on_background">#DE000000</color>
+    <color name="parallax_on_surface">#DE000000</color>
+
+    <!-- Live indicator color -->
+    <color name="live_indicator">#FFEA4335</color>
+
+    <!-- Comment colors -->
+    <color name="comment_background">#F2F2F2</color>
+    <color name="comment_text">#212121</color>
+    <color name="comment_username">#4285F4</color>
+
+    <!-- Gradient colors -->
+    <color name="gradient_start">#4285F4</color>
+    <color name="gradient_end">#34A853</color>
+
+    <!-- Transparency colors -->
+    <color name="semi_transparent_black">#80000000</color>
+</resources>
