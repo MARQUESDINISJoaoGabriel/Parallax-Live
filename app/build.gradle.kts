@@ -1,17 +1,16 @@
 plugins {
     alias(libs.plugins.android.application)
-    alias(libs.plugins.kotlin.android)
     alias(libs.plugins.google.gms.google.services)
     id("kotlin-parcelize")
     id("kotlin-kapt")
 }
 
 android {
-    namespace = "com.example.parallaxlive"
+    namespace = "com.example.parallaxliveapp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.parallaxlive"
+        applicationId = "com.example.parallaxliveapp"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
@@ -45,11 +44,6 @@ android {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
-
-    kotlinOptions {
-        jvmTarget = "11"
-    }
-
     packaging {
         resources {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
